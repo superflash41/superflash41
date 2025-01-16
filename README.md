@@ -7,6 +7,3 @@ I'm a Computer Engineering student at [PUCP](https://www.pucp.edu.pe/), interest
 
 Currently working as a Teaching Assistant for undergraduate Introduction to Programming (1INF01), Programming Techniques (INF144), and Operating Systems (1INF29) courses.
 
-<br>
-
-$$\infty$$
