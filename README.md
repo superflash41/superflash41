@@ -1,4 +1,3 @@
 ```
-> hi
 > it's all wrong, it's alright...
 ```
