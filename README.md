@@ -3,9 +3,7 @@
 ```
 
 <br>
-hi! i'm a swe and ai researcher.
-
-[pucp](https://www.pucp.edu.pe/) (computer engineering) + [impa](https://impa.br/) (mathematics)
+hi! i'm a swe and ai researcher. [pucp](https://www.pucp.edu.pe/) (computer engineering). [impa](https://impa.br/) (mathematics).
 
 my research interests include neuro-symbolic AI, theoretical foundations of AI, reinforcement learning and optimization.
 
